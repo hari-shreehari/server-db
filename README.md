@@ -31,6 +31,10 @@ This repository provides two FastAPI applications for managing student records:
 
 ---
 
+## Video Reference
+1. **Windows** -- https://drive.google.com/file/d/1rJGdjBTe1bqk5Xe-nNz_s3t7rpc2F0vK/view?usp=sharing
+2. **Mac** -- https://drive.google.com/file/d/1liPUaegh7R207ARe6HhpNII34j-eroBK/view?usp=sharing
+
 ## Setup Instructions
 
 1. **Clone the repository**
@@ -121,8 +125,3 @@ By default, both listen on `http://0.0.0.0:8000` with hot-reload enabled.
   ```
 
 ---
-
-## License
-
-This project is licensed under the MIT License.
-
