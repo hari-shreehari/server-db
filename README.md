@@ -41,7 +41,7 @@ This repository provides two FastAPI applications for managing student records:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/hari-shreehari/server-db.git
+   git clone https://github.com/hari-shreehari/server-db
    cd server-db
    ```
 
