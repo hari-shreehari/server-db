@@ -20,13 +20,14 @@ This repository provides two FastAPI applications for managing student records:
     ```
 
 * **Git**
-
+  * **Windows**: Install from [https://git-scm.com/download/win](https://github.com/git-for-windows/git/releases/download/v2.49.0.windows.1/Git-2.49.0-64-bit.exe)
+  * **macOS**:
   ```bash
-  # Ubuntu/Debian
+      brew install git
+  ```  
+  * **Linux**: Use your distro’s package manager, e.g.:
+  ```bash
   sudo apt update && sudo apt install git
-  # macOS (Homebrew)
-  brew install git
-  # Windows: Download Git for Windows from https://git-scm.com/download/win
   ```
 
 ---
@@ -125,3 +126,5 @@ By default, both listen on `http://0.0.0.0:8000` with hot-reload enabled.
   ```
 
 ---
+
+## Enter your name and a random number when you hit the curl... not Bob or Alice 
